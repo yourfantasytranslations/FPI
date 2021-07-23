@@ -2,14 +2,14 @@
 title: About
 ---
 
-Lu Wen was reborn as a bionic housekeeper.
+Ryu, an ordinary office worker, was returning home from his work. On his way of return he was searching for a store to eat dinner. On that day, he decided to have Chinese noodles and went inside a stall that he found on the roadside, by chance.
 
-He thought he would do just simple housework in this life.
+However, there wasn't any food nor any people inside the small stall. Seemingly disappointed, he had no choice but to visit another store on the other side of the street. But when he turned around and came outside, he saw a dense forest around him!
 
-On the first day he was taken home by his employer, he received two instructions:
+Ryu realised that he had been transferred to a different world and had acquired the skill called “Stall”.
 
-“Don’t go to the third floor.”
+Initially Ryu was disappointed, as he didn’t get any unrivalled combat skill. Later only he did realise that his cheat skill was ridiculously powerful and can produce “Food”!
 
-“Dig a hole in the backyard that can bury an adult, and dig a little deeper.”
+After exploring the new world and its surroundings Ryu decided to become a merchant and live a leisure life in another world. 
 
-What should he do now? Is this fate of MC?
+Interacting with various people and managing merchant associations with friends.

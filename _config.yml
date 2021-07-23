@@ -1,11 +1,11 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Bionic Era"
+title:            "Now that I have the food production skills, I am thinking of starting a trading company in a different world."
 description:      ""
-baseurl:     "BE"
+baseurl:     "FPI"
 url:              "" # Site url, without a slash at the end.
 signoff:          "lord-asgord" 
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
-google_analytics: G-NLNS2WZ9N9
+google_analytics: G-4MMFVR3P7S
 share:            false # Turn on twitter and facebook share buttons
 
 links:
